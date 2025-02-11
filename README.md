@@ -1,8 +1,8 @@
 
-![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
-
+<p align ="center">
+ <img src= "https://files.catbox.moe/h73x0c.jpg" witdh = "100px"></img>
+</p>
 ## About Me
-
 <img src="https://media.tenor.com/qLVgTQhZ4JoAAAAi/ehe-aha.gif" align = "right" width = "170"></img>
   <p width = "40">
    
