@@ -1,4 +1,4 @@
-
+<body>
 <p align ="center">
  <img src= "https://qu.ax/NhYgL.jpg" witdh = "100px"></img>
 </p>
@@ -28,3 +28,6 @@ Website: rudytl.site
 ```csharp
 ---------- Thank You ----------
 ```
+</body>
+
+<!-- beberapa ada yg kodenya dari github: AxellNetwork. saya hanya recode -->
