@@ -26,7 +26,7 @@ Website: rudytl.site
 <br>
 <br>
 ```csharp
------------- Thank You ------------
+---------- Thank You ----------
 ```
 </body>
 
