@@ -20,7 +20,7 @@ Website: rudytl.site
 
 ## 𖦹 Motivasition
 
-> *"Akan ada hari sulit untuk membuatmu menjadi lebih kuat."*
+> *```"Akan ada hari sulit untuk membuatmu menjadi lebih kuat."```*
 
 <a href="https://github.com/rudyxz"><img src="https://komarev.com/ghpvc/?username=truethari&style=flat-square&color=blue " alt=""/></a>
 <br>
