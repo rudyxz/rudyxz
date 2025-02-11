@@ -1,6 +1,6 @@
 
 <p align ="center">
- <img src= "https://files.catbox.moe/h73x0c.jpg" witdh = "100px"></img>
+ <img src= "https://qu.ax/NhYgL.jpg" witdh = "100px"></img>
 </p>
 ## About Me
 <img src="https://media.tenor.com/qLVgTQhZ4JoAAAAi/ehe-aha.gif" align = "right" width = "170"></img>
@@ -20,7 +20,7 @@ Domain: rudytl.site
 
 > *"Akan ada hari sulit untuk membuatmu menjadi lebih kuat."*
 
-<a href="https://github.com/rudytglk"><img src="https://komarev.com/ghpvc/?username=truethari&style=flat-square&color=green " alt=""/></a>
+<a href="https://github.com/rudyxz"><img src="https://komarev.com/ghpvc/?username=truethari&style=flat-square&color=green " alt=""/></a>
 <br>
 <br>
 ```csharp
