@@ -17,12 +17,14 @@ Website: rudytl.site
 ------------------------
 ```
 <br>
-<h1 align="center">Playing on Spotify</h1>
+
+## Playing on Spotify
 <p>
     <a href="https://open.spotify.com/user/31253dtz6tzyra5ewpcgpipeuefy">
       <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31253dtz6tzyra5ewpcgpipeuefy&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true" alt="Now Playing on Spotify" width="80%">
     </a>
   </p>
+ <br>
 
 ## 𖦹 Motivasition
 
