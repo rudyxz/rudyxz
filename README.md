@@ -17,25 +17,6 @@ Website: rudytl.site
 ------------------------
 ```
 <br>
-
-## ♬ Playing on Spotify
-<p>
-    <a href="https://open.spotify.com/user/31253dtz6tzyra5ewpcgpipeuefy">
-      <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31253dtz6tzyra5ewpcgpipeuefy&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true" alt="Now Playing on Spotify" width="80%">
-    </a>
-  </p>
- <br>
-
-## 𖦹 Motivasition
-
-> *```"Akan ada hari sulit untuk membuatmu menjadi lebih baik dari sebelunya, tetap semangat!!"```*
-
-<a href="https://github.com/rudyxz"><img src="https://komarev.com/ghpvc/?username=truethari&style=flat-square&color=blue " alt=""/></a>
-<br>
-<br>
-```csharp
----------- Thank You ----------
-```
 </body>
 
 <!-- beberapa ada yg kodenya dari github: AxellNetwork. saya hanya recode -->
