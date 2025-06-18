@@ -1,6 +1,6 @@
 <body>
 <p align ="center">
- <img src= "https://qu.ax/NhYgL.jpg" witdh = "100px"></img>
+ <img src= "https://files.catbox.moe/ehzf6s.jpeg" witdh = "100px"></img>
 </p>
 
 <h1 align="center">➜ About Me ˎˊ˗</h1>
