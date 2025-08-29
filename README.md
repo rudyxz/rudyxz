@@ -5,7 +5,7 @@
 
 <h1 align="center">➜ About Me ˎˊ˗</h1>
 
-<img src="https://media.tenor.com/RXpiLts0y6EAAAAi/jade-unjaded.gif" align = "right" width = "137"></img>
+<img src="https://media.tenor.com/RXpiLts0y6EAAAAi/jade-unjaded.gif" align = "right" width = "136"></img>
   <p width = "40">
    
 ```csharp
