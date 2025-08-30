@@ -1,6 +1,6 @@
 <body>
 <p align ="center">
- <img src= "https://files.catbox.moe/ckyt7g.jpg" witdh = "100px"></img>
+ <img src= "https://media.tenor.com/fNjhEIReMmwAAAAi/slumberout.gif" witdh = "100px"></img>
 </p>
 
 <h1 align="center">➜ About Me ˎˊ˗</h1>
